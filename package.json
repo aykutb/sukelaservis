@@ -1,0 +1,10 @@
+{
+  "name": "sozlukservis",
+  "version": "0.0.1",
+  "private": true,
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.9.0",
+    "mongoskin":"^1.4.4"
+  }
+}
